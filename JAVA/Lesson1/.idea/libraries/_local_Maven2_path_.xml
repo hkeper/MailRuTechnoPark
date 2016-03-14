@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="{local Maven2 path}">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/{local Maven2 path}" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
